@@ -1,1 +1,1 @@
-
+This includes the images from the first three segments of virtual small intestine captured by the virtual capsule endoscope along with the locations of the capsule for the purpose of evaluation of pose-estimation techniques.
